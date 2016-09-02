@@ -11,7 +11,3 @@ Requirements:
 * Then type _./a.out_
 
 **mem.h** is a library header file which just declares the variables, functions and structures and **mem.c** is where these functions' code is written. So what _gcc main.c mem.c_ does is, it imports that library into main file. 
-
-This image is to show the execution of program.
-
-[](execution.png)
