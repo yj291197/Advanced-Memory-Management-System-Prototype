@@ -7,11 +7,12 @@ Requirements:
 **How to run the program**
 * Firstly, clone the Repo
 * Open command prompt reach over there using cd
-* Type _gcc main.c mem.c_ and enter
-* Then type _./a.out_
+* Type **"gcc main.c mem.c"** and enter
+* Then type **"./a.out"**
 
-**mem.h** is a library header file which just declares the variables, functions and structures and **mem.c** is where these functions' code is written. So what _gcc main.c mem.c_ does is, it imports that library into main file. 
+**mem.h** is a library header file which just declares the variables, functions and structures and **mem.c** is where these functions' code is written. So what **"gcc main.c mem.c"** does is, it imports that library into main file. 
 
 This image is to show the execution of program.
 
-[](execution.png)
+![Execution of the program](/relative/path/to/execution.png?raw=true "")
+
