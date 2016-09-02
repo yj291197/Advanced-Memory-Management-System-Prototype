@@ -14,5 +14,5 @@ Requirements:
 
 This image is to show the execution of program.
 
-![Execution of the program](/relative/path/to/execution.png?raw=true "")
+![Execution of the program]((https://github.com/yj291197/Advanced-Memory-Management-System-Prototype/master/execution.png))
 
